@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @romirsinghla
 - 👀 I’m interested in Application Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Front End Development and Machine Learning tools
 - 💞️ I’m looking to collaborate on making Software
 - 📫 How to reach me romir.singhla@gmail.com
 
