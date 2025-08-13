@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @romirsinghla
-- 👀 I’m interested in Application Development
-- 🌱 I’m currently learning Front End Development and Machine Learning tools
+- 👋 Hi, I’m romirsinghla
+- 👀 I’m interested in Software Development, AI/ML Model Tranning and solving everyday problems with code.
+- 🌱 I’m currently a Masters student at Arizona State University.
 - 💞️ I’m looking to collaborate on making Software
 - 📫 How to reach me romir.singhla@gmail.com
 
